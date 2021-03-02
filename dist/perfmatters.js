@@ -1,0 +1,1 @@
+(()=>{"use strict";window.addEventListener("load",(function(t){var n,o,e;o=(n=window.performance.timing).domContentLoadedEventStart-n.domLoading,e=n.domComplete-n.domLoading,document.getElementById("crp-stats").textContent="DCL: "+o+"ms, onload: "+e+"ms"}))})();
